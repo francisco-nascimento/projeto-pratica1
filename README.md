@@ -32,4 +32,4 @@ Segunda: 18:30 - 21:30 <br />
 <p>Importante: Alunos, preencham esse formulário <a href='http://bit.ly/ifpe-registroalunos'>Registro</a> </p>
 Sildes: <a href='https://www.dropbox.com/s/y29bkwi3ynyvs60/PP1-Aula01-Apresenta%C3%A7%C3%A3o.pdf?dl=0'>PDF</a>
 
-<h2>Aula 2: Prática 0: Revisão</h2>
+<h2>Aula 2: Revisão</h2>
