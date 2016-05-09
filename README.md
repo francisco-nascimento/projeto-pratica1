@@ -28,16 +28,16 @@ Segunda: 18:30 - 21:30 <br />
 
 <h5>Local: Laborátório 2 (Sala 215)</h5>
 
-<h3>Aula 1: Apresentação</h3>
+<h3>1. Apresentação</h3>
 <p>Importante: Alunos, preencham esse formulário <a href='http://bit.ly/ifpe-registroalunos' target='_blank'>Registro</a> </p>
 Sildes: <a href='https://www.dropbox.com/s/y29bkwi3ynyvs60/PP1-Aula01-Apresenta%C3%A7%C3%A3o.pdf?dl=0' target='_blank'>PDF</a>
 
-<h3>Aula 2: Revisão</h3>
+<h3>2. Revisão</h3>
 <p>Atividade para a próxima aula: <a href='https://www.dropbox.com/s/87uqhn2fg7y5eye/PP1-Atividade02.pdf?dl=0' target='_blank'>Prática 01</a>
 </p>
 
-<h3>Aula 3: Seminários - Funcionalidades principais de um sistema</h3>
+<h3>3. Seminários - Funcionalidades principais de um sistema</h3>
 
-<h3>Aula 04: Sistemas</h3>
+<h3>4. Sistemas</h3>
 <A href="https://www.dropbox.com/s/ne2lmzasupr7wyz/PP1-Aula02-Sistemas.pdf?dl=0">Slides</a><br/>
 <a href="https://www.dropbox.com/s/efvebrpfzmn7o81/PP01-Atividade03.pdf?dl=0">Atividade 03</a>
