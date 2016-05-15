@@ -42,5 +42,6 @@ Sildes: <a href='https://www.dropbox.com/s/y29bkwi3ynyvs60/PP1-Aula01-Apresenta%
 <A href="https://www.dropbox.com/s/ne2lmzasupr7wyz/PP1-Aula02-Sistemas.pdf?dl=0">Slides</a><br/>
 
 <h3>5. Projeto do Sistema Acadêmico</h3>
-<a href="https://www.dropbox.com/s/efvebrpfzmn7o81/PP01-Atividade03.pdf?dl=0">Atividade 03 - Páginas HTML</a> <br/>
-<a href="https://www.dropbox.com/s/g6jyeokdu71dwtl/PP01-Atividade04.pdf?dl=0">Atividade 04 - Diagrama de Entidade-Relacionamento</a>
+<a href="https://www.dropbox.com/s/efvebrpfzmn7o81/PP01-Atividade03.pdf?dl=0" target="_blank">Atividade 03 - Páginas HTML</a> <br/>
+<a href="https://www.dropbox.com/s/g6jyeokdu71dwtl/PP01-Atividade04.pdf?dl=0" target="_blank">Atividade 04 - Diagrama de Entidade-Relacionamento</a><br />
+<a href="https://www.dropbox.com/s/dey0tzjltv8h1gl/PP01-Atividade05.pdf?dl=0" target="_blank">Atividade 05 - Formulários</a>
