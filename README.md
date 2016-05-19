@@ -51,8 +51,9 @@ Formulários</a>
 <ul>
 <li><a href="https://www.dropbox.com/s/oej9xl3iiic463p/apostilaHTMLCSS.pdf?dl=0">Apostila de CSS</a></li>
 <li><a href="http://www.maujor.com/index.php#alvo">Tutorial CSS - Maujor</a></li>
+<li><a href="http://www.csszengarden.com/">CSS Zen Garden</a>
 </ul>
 <br />
-Atividade 06 - Inclusão de CSS no Sistema Acadêmico
+<a href="https://www.dropbox.com/s/7pehuu6dy3lk97j/PP01-Atividade06.pdf?dl=0">Atividade 06 - Inclusão de CSS no Sistema Acadêmico</a>
 
 
