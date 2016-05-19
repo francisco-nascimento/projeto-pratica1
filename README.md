@@ -45,3 +45,11 @@ Sildes: <a href='https://www.dropbox.com/s/y29bkwi3ynyvs60/PP1-Aula01-Apresenta%
 <a href="https://www.dropbox.com/s/efvebrpfzmn7o81/PP01-Atividade03.pdf?dl=0" target="_blank">Atividade 03 - Páginas HTML</a> <br/>
 <a href="https://www.dropbox.com/s/g6jyeokdu71dwtl/PP01-Atividade04.pdf?dl=0" target="_blank">Atividade 04 - Diagrama de Entidade-Relacionamento</a><br />
 <a href="https://www.dropbox.com/s/dey0tzjltv8h1gl/PP01-Atividade05.pdf?dl=0" target="_blank">Atividade 05 - Formulários</a>
+
+<h4>CSS: </h4>
+<b>Dicas para uso de CSS nos Formulários:</b>
+<a href="http://guilhermemuller.com.br/pt/posts/7/html-e-css-para-formularios-sugestoes">http://guilhermemuller.com.br/pt/posts/7/html-e-css-para-formularios-sugestoes</a><br/>
+Apostila de CSS: <a href="https://www.dropbox.com/s/oej9xl3iiic463p/apostilaHTMLCSS.pdf?dl=0">PDF</a>
+
+
+
