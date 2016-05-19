@@ -47,11 +47,12 @@ Sildes: <a href='https://www.dropbox.com/s/y29bkwi3ynyvs60/PP1-Aula01-Apresenta%
 <a href="https://www.dropbox.com/s/dey0tzjltv8h1gl/PP01-Atividade05.pdf?dl=0" target="_blank">Atividade 05 - 
 Formulários</a>
 
-<div style='background-color:#DDD'>
-<h5>CSS: </h6>
-Dicas para uso de CSS nos Formulários:
-<a href="http://guilhermemuller.com.br/pt/posts/7/html-e-css-para-formularios-sugestoes">http://guilhermemuller.com.br/pt/posts/7/html-e-css-para-formularios-sugestoes</a><br/>
-Apostila de CSS: <a href="https://www.dropbox.com/s/oej9xl3iiic463p/apostilaHTMLCSS.pdf?dl=0">PDF</a>
-</div>
+<b>Links úteis de CSS:</b><br />
+<ul>
+<li><a href="https://www.dropbox.com/s/oej9xl3iiic463p/apostilaHTMLCSS.pdf?dl=0">Apostila de CSS</a></li>
+<li><a href="http://www.maujor.com/index.php#alvo">Tutorial CSS - Maujor</a></li>
+</ul>
+<br />
+Atividade 06 - Inclusão de CSS no Sistema Acadêmico
 
 
