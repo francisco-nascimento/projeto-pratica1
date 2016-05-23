@@ -50,6 +50,7 @@ Formulários</a>
 <b>Links úteis de CSS:</b><br />
 <ul>
 <li><a href="https://www.dropbox.com/s/oej9xl3iiic463p/apostilaHTMLCSS.pdf?dl=0">Apostila de CSS</a></li>
+<li><a href="https://www.dropbox.com/s/9ynb6hoz6bg363p/Atributos%20CSS.pdf?dl=0">Atributos CSS</a></li>
 <li><a href="http://www.maujor.com/index.php#alvo">Tutorial CSS - Maujor</a></li>
 <li><a href="http://www.csszengarden.com/">CSS Zen Garden</a>
 </ul>
