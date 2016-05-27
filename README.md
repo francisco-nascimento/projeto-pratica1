@@ -46,6 +46,8 @@ Sildes: <a href='https://www.dropbox.com/s/y29bkwi3ynyvs60/PP1-Aula01-Apresenta%
 <a href="https://www.dropbox.com/s/g6jyeokdu71dwtl/PP01-Atividade04.pdf?dl=0" target="_blank">Atividade 04 - Diagrama de Entidade-Relacionamento</a><br />
 <a href="https://www.dropbox.com/s/dey0tzjltv8h1gl/PP01-Atividade05.pdf?dl=0" target="_blank">Atividade 05 - 
 Formulários</a>
+<a href="https://www.dropbox.com/s/7pehuu6dy3lk97j/PP01-Atividade06.pdf?dl=0">Atividade 06 - Inclusão de CSS no Sistema Acadêmico</a>
+<a href="https://www.dropbox.com/s/5nv5e6it4zqaa9a/PP01-Atividade07.pdf?dl=0">Atividade 07 - Finalização do Projeto</a>
 
 <b>Links úteis de CSS:</b><br />
 <ul>
@@ -55,6 +57,5 @@ Formulários</a>
 <li><a href="http://www.csszengarden.com/">CSS Zen Garden</a>
 </ul>
 <br />
-<a href="https://www.dropbox.com/s/7pehuu6dy3lk97j/PP01-Atividade06.pdf?dl=0">Atividade 06 - Inclusão de CSS no Sistema Acadêmico</a>
 
 
