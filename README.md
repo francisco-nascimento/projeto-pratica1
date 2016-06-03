@@ -58,4 +58,11 @@ Formulários</a><br />
 </ul>
 <br />
 
+<h3>6. Git: </h3>
+<a href="help-git.md">Orientações sobre Git</a>
+<br />
+Links úteis:<br/>
+<a href="https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git" target="_blank">Página do Git (Instalação no Linux, Windows ou Mac)</a> <br />
+<a href="http://www.comandoslinux.com/" target="_blank">Comandos Linux</a><br />
+
 
