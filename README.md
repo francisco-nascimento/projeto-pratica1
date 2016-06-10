@@ -5,7 +5,6 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 </h5>
 
 ##### Agenda - Turma da Tarde 
-------------------------------
 Data | ...
 -----|-------
 10/06/16 | Acompanhamento da atividade
@@ -15,7 +14,6 @@ Data | ...
 27/06/16 | Recuperação 1a. Unidade
 ----------------------
 ##### Agenda - Turma da Noite
-------------------------------
 Data | ...
 -----|-------
 13/06/16 | Acompanhamento da atividade
