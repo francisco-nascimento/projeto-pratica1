@@ -4,15 +4,15 @@
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
 </h5>
 
-##### Avaliação dos projetos - I Unidade
+##### Avaliação dos projetos (TARDE) - I Unidade
 Data/Hora | Grupo
 ----|-----
-|Sexta (17/06/16) |
+|*Sexta (17/06/16)* |
 13:30 | Estevão, Jhon, Sheiciely
 13:50 | Gisele, José Diógenes, Natália, Rebeca
 14:10 | Luiz Carlos
 14:30 | Dayane, Ellem, Eveline, Marília
-|Segunda (20/06/16) |
+|*Segunda (20/06/16)* |
 13:30 | Alisson, Filipe, Pedro, Taís
 13:50 | Barbaha, Rennan, Vicente, Thayane
 14:10 | Ivanildo
