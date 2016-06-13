@@ -3,7 +3,12 @@
 <h5>Professor: Francisco do Nascimento <BR />
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
 </h5>
-
+-----
+<pre>
+AVISO IMPORTANTE: O INCLUDE foi SUSPENSO! 
+A solicitação de usar o INCLUDE para o menu (Atividade 07 - Parte 1) não será cobrada.
+</pre>
+-----
 ##### Avaliação dos projetos (NOITE) - I Unidade - Data: 20/06/16
 
 Hora | Grupo
