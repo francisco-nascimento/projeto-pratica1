@@ -4,6 +4,22 @@
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
 </h5>
 
+##### Avaliação dos projetos (NOITE) - I Unidade - Data: 20/06/16
+
+Hora | Grupo
+-----|-----
+18:20 | Myllena
+18:40 | Armando, Alesson Francisco, Jonhata
+19:00 | Daivson, Emerson
+19:20 | Flávia, Roberto, Alesson Messias
+19:40 | Jobson Raphael, Maxwell
+20:00 | Luiz Augusto, Marcelo, Tiago
+20:20 | Leonilson
+20:40 | Romildo
+21:00 | Rafael
+21:20 | André Luiz
+21:40 | Wellington
+
 ##### Avaliação dos projetos (TARDE) - I Unidade
 Data/Hora | Grupo
 ----|-----
