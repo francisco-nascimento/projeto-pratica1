@@ -19,11 +19,10 @@ Hora | Grupo
 19:20 | Flávia, Roberto, Alesson Messias
 19:40 | Jobson Raphael, Maxwell
 20:00 | Luiz Augusto, Marcelo, Tiago
-20:20 | Leonilson
+20:20 | Leonilson / Rafael
 20:40 | Romildo
-21:00 | Rafael
-21:20 | André Luiz
-21:40 | Wellington
+21:00 | André Luiz
+21:20 | Wellington
 
 ##### Avaliação dos projetos (TARDE) - I Unidade
 Data/Hora | Grupo
