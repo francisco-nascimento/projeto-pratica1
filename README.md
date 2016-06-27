@@ -47,7 +47,7 @@ Data | ...
 13/06/16 | Acompanhamento da atividade (Aula de reposição até as 16:30)
 17/06/16 | Avaliação: Perguntas individuais sobre as atividades realizadas- Grupos A
 20/06/16 | Avaliação (Continuação) - Grupos B  (Aula de reposição até as 16:30)
-27/06/16 | Recuperação 1a. Unidade
+27/06/16 | Divulgação das notas <br> Apresentação do projeto 2a. Unidade
 ----------------------
 ##### Agenda - Turma da Noite
 Data | ...
@@ -55,7 +55,7 @@ Data | ...
 13/06/16 | Acompanhamento da atividade
 17/06/16 | Acompanhamento da atividade (Aula de Reposição: 18:15 as 20:00)
 20/06/16 | Avaliação: Perguntas individuais sobre as atividades realizadas.
-27/06/16 | Recuperação 1a. Unidade
+27/06/16 | Divulgação das notas <br> Apresentação do projeto 2a. Unidade
 ----------------------
 
 
