@@ -1,4 +1,4 @@
-# Projeto e Prática 1
+# Projeto e Prática 1 (_Unidade 2_)
 <h3>Repositório para a disciplina de Projeto e Prática 1 - IFPE</h3>
 <h5>Professor: Francisco do Nascimento <BR />
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
