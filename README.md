@@ -8,7 +8,13 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 Página da Unidade 1: <a href="README2.md">Link</a>
 </pre>
 -----
+----------------------------
+### Aulas
+27/06/16 - Apresentação da II Unidade (<a href="http://prezi.com/emxraa0go0tq/?utm_campaign=share&utm_medium=copy&rc=ex0share" target="_blank">link</a>)
 
+01/07/16 - Definir equipe, tema e páginas (Cada grupo deverá preencher o <a href="http://goo.gl/forms/BR968XT5QvMekKfC2">formulário</a>)
+
+-------
 #### Projeto da 2a. Unidade 
 ##### Objetivo: 
 Construção de um site utilizando HTML, CSS, JavaScript, PHP e Banco de Dados
@@ -38,6 +44,3 @@ Construção de um site utilizando HTML, CSS, JavaScript, PHP e Banco de Dados
 * Parte 1: Apenas com o prof. Francisco, analisando código-fonte
 * Parte 2: Apresentação ao público (outros professores darão notas)
 
-----------------------------
-### Aulas
-27/06/16 - Apresentação da II Unidade (<a href="http://prezi.com/emxraa0go0tq/?utm_campaign=share&utm_medium=copy&rc=ex0share" target="_blank">link</a>)
