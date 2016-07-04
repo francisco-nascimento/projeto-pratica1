@@ -43,8 +43,9 @@ Construção de um site utilizando HTML, CSS, JavaScript, PHP e Banco de Dados
 10 | Apresentar uma página de pesquisa | 08/08/16 | 08/08/16
 11 | Apresentar uma página de exclusão | 12/08/16 | 08/08/16
 12 | Apresentar página de login/senha | 15/08/16 | 15/08/16
-11 | Etapa de colaboração: <BR/> Avaliar o site de outro grupo e sugerir modificações | 22/08/16 | 22/08/16
-*12* | *Apresentação dos projetos* | *05/09/16* | *05/09/16*
+13 | Etapa de colaboração: <BR/> Avaliar o site de outro grupo e sugerir modificações | 22/08/16 | 22/08/16
+14 | Último checklist | 29/08/16 | 29/08/16
+**15** | **Apresentação dos projetos** | **05/09/16** | **05/09/16**
 
 ##### Avaliação em duas etapas
 * Parte 1: Apenas com o prof. Francisco, analisando código-fonte
