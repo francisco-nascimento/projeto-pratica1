@@ -39,9 +39,9 @@ Construção de um site utilizando HTML, CSS, JavaScript, PHP e Banco de Dados
 6 | Adicionar artefatos no Github | 18/07/16 | 18/07/16
 7 | Apresentar o diagrama ER e script do BD | 25/07/16 | 25/07/16
 8 | Apresentar uma página de inserção | 01/08/16 | 01/08/16 
-9 | Apresentar uma página de alteração | 05/08/16 | 01/08/16
-10 | Apresentar uma página de pesquisa | 08/08/16 | 08/08/16
-11 | Apresentar uma página de exclusão | 12/08/16 | 08/08/16
+9 | Apresentar uma página de alteração | 05/08/16 | 12/08/16
+10 | Apresentar uma página de pesquisa | 12/08/16 | 12/08/16
+11 | Apresentar uma página de exclusão | 15/08/16 | 15/08/16
 12 | Apresentar página de login/senha | 15/08/16 | 15/08/16
 13 | Etapa de colaboração: <BR/> Avaliar o site de outro grupo e sugerir modificações | 22/08/16 | 22/08/16
 14 | Último checklist | 29/08/16 | 29/08/16
