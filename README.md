@@ -8,7 +8,31 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 Página da Unidade 1: <a href="README2.md">Link</a>
 </pre>
 -----
+### Apresentação do Projeto II Unidade (TARDE e NOITE)
+Data: 05/09/16
+Apresentação ao público: 
+* TARDE - 15:30 as 16:30
+* NOITE - 20:30 - 21:30
+
+##### HORÁRIOS DA AVALIAÇÂO DO GRUPO
+Grupo | Horário
+---|----
+Somos Um | 13:30
+Else da Zueira | 13:50
+Studio 21 | 14:10
+Full Metal | 14:30
+SAO | 14:50
+J-JALOS | 15:10
+Vicente | 15:30
+GOLD | 18:30
+Animaniacs | 18:50
+Supapo | 19:10
+Roberto | 19:30
+Toguro 100% | 19:50
+Myllena | 20:10
+
 ----------------------------
+
 ### Aulas
 1. Apresentação da II Unidade (<a href="http://prezi.com/emxraa0go0tq/?utm_campaign=share&utm_medium=copy&rc=ex0share" target="_blank">link</a>)
 
