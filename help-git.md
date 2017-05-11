@@ -53,8 +53,8 @@ Referências:
 <li>Clonar o repositório remoto para a pasta local <br />
     <pre>git clone URL</pre></li>
 <li>Configurar dados do usuário<br/>
-<pre>git config --global user.name SeuNome<br/>
-git config --global user.email seuemail-usado-no-github@abc.com <br /> </pre> 
+<pre>git config user.name SeuNome<br/>
+git config user.email seuemail-usado-no-github@abc.com <br /> </pre> 
      </li>
 <li>Marcar os arquivos novos para commit<br />
     <pre>git add . </pre></li>
